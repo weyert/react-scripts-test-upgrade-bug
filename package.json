@@ -16,6 +16,9 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "jest": {
+    "resetMocks": false
+  },
   "browserslist": {
     "development": [
       "last 2 chrome versions",
